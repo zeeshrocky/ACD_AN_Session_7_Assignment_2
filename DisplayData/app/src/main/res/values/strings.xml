@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Textview_Autocomplete</string>
+    <string name="search">Search Products Here</string>
+    <string name="hint">AutoComplete TextView</string>
+</resources>
